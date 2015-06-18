@@ -1,0 +1,7 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="Theme.Feedreader" parent="android:Theme.Holo.Light">
+    </style>
+
+</resources>
